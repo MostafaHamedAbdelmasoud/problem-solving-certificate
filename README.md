@@ -1,3 +1,3 @@
 # problem-solving-certificate
 
-![certificate_ps.jpg]
+![](certificate_ps.jpg)
